@@ -1,0 +1,1 @@
+docker run --rm -v "$(pwd)":/shared thierrysans/pycryptodome python3 /shared/crack.py -o /shared/combined.ppm /shared/secret1.ppm /shared/secret2.ppm
