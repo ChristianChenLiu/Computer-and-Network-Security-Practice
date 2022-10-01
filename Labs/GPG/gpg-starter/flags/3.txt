@@ -1,0 +1,18 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+The flag is DKBA4mj1KNAw
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.6.2
+Comment: https://openpgpjs.org
+
+wsBcBAEBCAAGBQJjH5HOAAoJELcfBuKXebvmwKsH/iILOxSoBO2g979dahP8
+OF6ZlqN92HWMj23AFWbkZapvfPjjCOihkY9vC2IRuR3FWFOqibViS6dCwyMa
+cyDI3LAveurRR5guxyBx0KqgqLo342ScXgExAOrlTjE+JPLqhM9YEesGl/Jr
+Yn1ywusneVkwGyr3YBRyFu4XIhfM0aQw0NPuIM2Xox55yF+9LjTznUnGnymV
+fbktYHqB4YCoX1Nm0DMNHN5Q3hPHhZd6l9/le0gs+0jXh3Bcr3K7AyKgVWmT
+fkEIlG435AUVAk/wiGapP8U+3YJx6u9atSB8bwmNzYy0+9livDyNOMuLC5jN
+fptWwXAYh+mcYaTlUx+LUXc=
+=M6ow
+-----END PGP SIGNATURE-----
